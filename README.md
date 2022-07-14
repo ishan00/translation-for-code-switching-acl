@@ -17,14 +17,14 @@ The data for PRETRAIN, OpSub-LEX and OpSub-EMT is not uploaded on github because
 
 ## Pre-Processing
 Run preprocess_data.sh to download the required tools for preprocessing. 
-
+```
 Moses found in: /Users/ishan/Desktop/UnsupervisedMT/NMT/tools/mosesdecoder
 fastBPE found in: /Users/ishan/Desktop/UnsupervisedMT/NMT/tools/fastBPE
 fastBPE compiled in: /Users/ishan/Desktop/UnsupervisedMT/NMT/tools/fastBPE/fastBPE/fast
 fastText found in: /Users/ishan/Desktop/UnsupervisedMT/NMT/tools/fastText
 fastText compiled in: /Users/ishan/Desktop/UnsupervisedMT/NMT/tools/fastText/fasttext
 Extracting vocabulary...
-
+```
 ### Possible errors you might get on running preprocess_data.sh
 
 ```
