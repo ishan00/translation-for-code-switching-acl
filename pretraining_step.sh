@@ -1,5 +1,5 @@
-MONO_DATASET='en:./data/PRETRAIN/en.train.tok.pth,,;hi:./data/PRETRAIN/hi.train.tok.pth,,'
-PARA_DATASET='en-hi:./data/PRETRAIN/XX.train.tok.pth,./data/PRETRAIN/XX.valid.tok.pth,./data/PRETRAIN/XX.test.tok.pth'
+MONO_DATASET='en:./data/PRETRAIN/en.train.pth,,;hi:./data/PRETRAIN/hi.train.pth,,'
+PARA_DATASET='en-hi:./data/PRETRAIN/XX.train.pth,./data/PRETRAIN/XX.valid.pth,./data/PRETRAIN/XX.test.pth'
 PRETRAINED='./data/all.256.vec'
 
 #CUDA_VISIBLE_DEVICES=0 
